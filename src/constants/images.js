@@ -1,0 +1,9 @@
+export const mainPage = require('../assets/img/bg.jpg');
+export const waybills = require('../assets/img/wb-bg.jpg');
+export const acts = require('../assets/img/act-bg.jpg');
+export const carMarker = require('../assets/img/car-marker.png');
+export const locMarker = require('../assets/img/location.png');
+export const mapMarker = require('../assets/img/map-marker.png');
+export const mapMarkerChecked = require('../assets/img/map-marker-checked.png');
+export const checkMarker = require('../assets/img/checkpoint-marker.png');
+export const checkMarkerChecked = require('../assets/img/checkpoint-marker-checked.png');
